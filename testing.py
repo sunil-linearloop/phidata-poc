@@ -14,8 +14,8 @@ st.set_page_config(
     page_title="News Articles",
     page_icon=":orange_heart:",
 )
-st.title("News Articles powered by Groq")
-st.markdown("##### :orange_heart: built using [phidata](https://github.com/phidatahq/phidata)")
+st.title("Articles Generator powered by Groq with Phidata")
+st.markdown("##### built using [phidata](https://github.com/phidatahq/phidata)")
 
 # Define use cases and their configurations
 USE_CASES = {
