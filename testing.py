@@ -11,7 +11,7 @@ from assistants import get_article_summarizer, get_article_writer  # type: ignor
 
 nest_asyncio.apply()
 st.set_page_config(
-    page_title="News Articles",
+    page_title="Articles Generator",
     page_icon=":orange_heart:",
 )
 st.title("Articles Generator powered by Groq with Phidata")
