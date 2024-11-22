@@ -42,7 +42,7 @@ curl-cffi==0.6.3
     # via duckduckgo-search
 distro==1.9.0
     # via groq
-duckduckgo-search==5.3.0
+duckduckgo-search==5.4.1
     # via -r cookbook/llms/groq/news_articles/requirements.in
 exceptiongroup==1.2.1
     # via anyio
